@@ -1,7 +1,5 @@
  # Battleship :ship:
 
-![Screenshot of an on-going battleship game]
-(/capture_battle.png)
 
 ## :anchor: Description
 A simple python implementation of the classic Battleship game with a basic artificial intelligence (AI) opponent. The game is built using a straightforward console interface, making it easy to understand and play. The AI opponent employs a simple strategy to make its moves, providing a basic but functional challenge for players. This version of the Battleship game features a graphical user interface (GUI) implemented using Pygame. 
