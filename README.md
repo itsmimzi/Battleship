@@ -28,4 +28,4 @@ To play the Battleship game with the Pygame GUI:
 
    
 
- :+1: _Feel free to explore and enhance the graphical aspects of the game or experiment with different AI strategies within the Pygame environment!_
+ :tipping_hand_woman: _Feel free to explore and enhance the graphical aspects of the game or experiment with different AI strategies within the Pygame environment!_
